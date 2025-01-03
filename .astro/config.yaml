@@ -1,0 +1,4 @@
+project:
+    name: data-pipeline-to-s-3-iceberg-tables-with-aws-emr-and-apache-airflow
+postgres:
+  port: 5435
